@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\6-2_Assignment\Source\SceneManager.cpp(68,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\6-2_Assignment\Source\SceneManager.cpp(220,27): warning C4305: '=': truncation from 'double' to 'float'
+  6-2_Assignment.vcxproj -> C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\6-2_Assignment\Debug\6-2_Assignment.exe

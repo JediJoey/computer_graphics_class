@@ -1,0 +1,3 @@
+﻿  SceneManager.cpp
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(234,16): warning C4018: '<': signed/unsigned mismatch
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe

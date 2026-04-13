@@ -1,0 +1,9 @@
+﻿  ViewManager.cpp
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(134,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(135,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(141,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(145,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(235,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  4-2_Assignment.vcxproj -> C:\Users\racin\dev\repos\computer_graphics_class\CS330Content\Projects\4-2_Assignment\Debug\4-2_Assignment.exe
